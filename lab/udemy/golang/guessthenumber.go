@@ -17,9 +17,6 @@ func main(){
 	fmt.Println("Guess the number game")
 	
 
-
-
-
 }
 
 
